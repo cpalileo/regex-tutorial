@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Regular expression or Regex for short, is used for the purpose of allowing a computer to search for a character or set of characters though search string algorithms.  In order to write code in Regex a particular syntax must be followed.  The purpose of this tutorial is to assist developers in writing syntax in Regex to be used in their applications.  
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. A summary describing the regex featured in the tutorial. Replace this text with your summary.
 
 ## Table of Contents
 
