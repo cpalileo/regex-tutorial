@@ -4,7 +4,7 @@ Regular expression or Regex for short, is used for the purpose of allowing a com
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. A summary describing the regex featured in the tutorial. Replace this text with your summary.
+This tutorial will include many of the common Regex components. However, it does not cover every component available in Regex. Additionally the components introduced in this tutorial include the most common uses of the component in question. However, advanced users are capable of more complex searches using the components described in this tutorial.
 
 ## Table of Contents
 
@@ -80,10 +80,18 @@ Lazy searches specified by adding a ? after the + (example: <.+?>) will repeat t
 
 ### Boundaries
 
+Boundaries specified by adding /b to both ends of the search sting allow for searches to begin with a world but ends with non-words.
+
 ### Back-references
+
+Back-references are components indicated by a / immediately followed by a number. This component identifies the search string followed by a second, third, fourth, or so depending on the value of the number used in the back-reference.
 
 ### Look-ahead and Look-behind
 
+These components indicated by the characters (?=) and (?<=) are used to search for strings that are either preceding or succeed a given string.  
+Example: 1(?=2) would only yield results that have a 1 that is preceding a 2. Where as (?<=2)1 would yield results where as a 1 succeeds a 2.
+
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This tutorial was created by Christopher Palileo
+[GitHub](https://github.com/cpalileo)
