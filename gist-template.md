@@ -4,7 +4,7 @@ Regular expression or Regex for short, is used for the purpose of allowing a com
 
 ## Summary
 
-This tutorial will include many of the common Regex components. However, it does not cover every component available in Regex. Additionally the components introduced in this tutorial include the most common uses of the component in question. However, advanced users are capable of more complex searches using the components described in this tutorial.
+At the time of publication, this tutorial was created by a bootcamp student at UC Davis as a week 17 homework assignment. This tutorial will include several common Regex components. However, it does not cover every component available in Regex. Additionally, the components introduced in this tutorial include the most common uses of the component presented. However, through further education, practice, and experience, advanced users will likely find themselves capable of more complex searches using the components described in this tutorial. In other words, this tutorial is most suited as a novice's introductory guide to Regex.
 
 ## Table of Contents
 
@@ -93,5 +93,6 @@ Example: 1(?=2) would only yield results that have a 1 that is preceding a 2. Wh
 
 ## Author
 
-This tutorial was created by Christopher Palileo
+At the time of publication, this tutorial was created by bootcamp student, Christopher Palileo.
 [GitHub](https://github.com/cpalileo)
+[GitHub Gist](https://gist.github.com/cpalileo/733145f4939a394e66df85027f734d05.js)
